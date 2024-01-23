@@ -1,0 +1,36 @@
+/* Reset de estilos para eliminar los estilos predeterminados del navegador */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos básicos para el body */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos para un encabezado h1 */
+h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Estilos para un párrafo */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Estilos para un enlace */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
